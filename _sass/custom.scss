@@ -32,7 +32,7 @@ h1, h2, h3 {
 }
 
 /* Remove dark/light mode toggle */
-.theme-toggle {
+.theme-icon {
   display: none !important;
 }
 
@@ -40,6 +40,10 @@ h1, h2, h3 {
 
 .author__urls a, .author__urls .author__url {
   color: var(--color-text-primary) !important;
+}
+
+.page__footer {
+  position: static !important;
 }
 
 h2#news ~ p {
