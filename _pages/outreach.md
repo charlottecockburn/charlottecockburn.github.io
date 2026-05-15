@@ -10,7 +10,7 @@ I love chatting about anything climate science-related with a whole variety of a
 ## Ongoing 
 *September 2025 - present*: [Letters to a Pre-Scientist](https://prescientist.org/) pen pal program
 
-*September 2025 - present*: Columbia University Department of Earth and Environmental Sciences Graduate Student Council (first-year chair)
+*September 2025 - present*: Department of Earth and Environmental Sciences Graduate Student Council (first-year chair)
 
 *January 2025 - present*: [Skype a Scientist](https://www.skypeascientist.com/) classroom video calls
 
