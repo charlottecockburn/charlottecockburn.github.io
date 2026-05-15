@@ -10,9 +10,9 @@ I love chatting about anything climate science-related with a whole variety of a
 ## Ongoing 
 [Letters to a Pre-Scientist](https://prescientist.org/) pen pal program
 
-[Skype a Scientist](https://www.skypeascientist.com/)
+[Skype a Scientist](https://www.skypeascientist.com/) classroom video calls
 
-[Let's Talk Science](https://letstalkscience.ca/careers/charlotte-cockburn)
+[Let's Talk Science](https://letstalkscience.ca/careers/charlotte-cockburn) classroom visits
 
 Dartmouth [alumni ambassador](https://alumni.dartmouth.edu/admissions-ambassadors)
 
