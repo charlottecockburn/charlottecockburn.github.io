@@ -8,6 +8,7 @@ author_profile: false
 I love chatting about anything climate science-related with a whole variety of audiences.
 
 ## Ongoing 
+
 **September 2025 - present**: [Letters to a Pre-Scientist](https://prescientist.org/) pen pal program
 
 **September 2025 - present**: Department of Earth and Environmental Sciences Graduate Student Council (first-year chair)
