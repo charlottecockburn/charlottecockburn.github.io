@@ -18,11 +18,10 @@ In my free time, I love going for bike rides, swimming, hiking, reading, and any
 ##WEBSITE IS UNDER CONSTRUCTION PLEASE COME BACK LATER!!
 
 
-News
+##News
 ======
 
-<div class="news-item" markdown="1">**April 2026** I was awarded the [Canada Graduate Research Scholarship](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program) from the Natural Sciences and Engineering Research Council of Canada!!</div>
-
+**April 2026** I was awarded the [Canada Graduate Research Scholarship](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program) from the Natural Sciences and Engineering Research Council of Canada!!
 
 **April 2026** I spent a day volunteering at Columbia's [Girls' Science Day](https://www.girlsscienceday.com/), getting to connect with almost 100 middle-aged girls and talking to them about cool science!
 
