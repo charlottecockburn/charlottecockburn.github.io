@@ -44,9 +44,9 @@ In my free time, I love going for bike rides, swimming, hiking, reading, and any
 
 **July 2023** I started volunteering with [Let's Talk Science](https://letstalkscience.ca/careers/charlotte-cockburn), a Canadian organization that brings scientists into classrooms 
 
-**May 2023** Our paper looking at future precipitation changes in the Northeast was published in [Climatic Change](https://link.springer.com/article/10.1007/s10584-023-03545-w)! Synopsis [here](https://home.dartmouth.edu/news/2023/06/extreme-precipitation-northeast-increase-52-2099)
+**May 2023** Our paper looking at future precipitation changes in the Northeast was published in [Climatic Change!](https://link.springer.com/article/10.1007/s10584-023-03545-w) Synopsis [here](https://home.dartmouth.edu/news/2023/06/extreme-precipitation-northeast-increase-52-2099)
 
-**March 2023** The paper that I wrote based on my master's work was published in [JAWRA](https://onlinelibrary.wiley.com/doi/full/10.1111/1752-1688.13120)! Final revisions and proof reviews may or may not have been made on a barely-functioning hostel-common-room desktop in Chiang Mai, Thailand. Synopsis [here](https://irving.dartmouth.edu/news/2023/04/warming-climate-affect-streamflow-northeast)
+**March 2023** The paper that I wrote based on my master's work was published in [JAWRA!](https://onlinelibrary.wiley.com/doi/full/10.1111/1752-1688.13120) Final revisions and proof reviews may or may not have been made on a barely-functioning hostel-common-room desktop in Chiang Mai, Thailand. Synopsis [here](https://irving.dartmouth.edu/news/2023/04/warming-climate-affect-streamflow-northeast)
 
 **January 2023** I took a career break to backpack across Australia, New Zealand, and Southeast Asia! 
 
@@ -60,7 +60,7 @@ In my free time, I love going for bike rides, swimming, hiking, reading, and any
 
 **August 2021** I wrapped up my master's!
 
-**June 2021** Our intermittent rivers paper was published in [Nature](https://www.nature.com/articles/s41586-021-03565-5)!
+**June 2021** Our intermittent rivers paper was published in [Nature!](https://www.nature.com/articles/s41586-021-03565-5)
 
 **May 2021** As a part of Vermont EPSCoR, I led a [workshop](https://epscor.w3.uvm.edu/bree/?node=6174) in a local high school about weather station data
 
