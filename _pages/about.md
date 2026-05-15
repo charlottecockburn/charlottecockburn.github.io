@@ -21,33 +21,27 @@ In my free time, I love going for bike rides, swimming, hiking, reading, and any
 News
 ======
 
-To come!
+<div class="news-item">**April 2026** I was awarded the [Canada Graduate Research Scholarship](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program) from the Natural Sciences and Engineering Research Council of Canada!! So excited to continue doing exciting & interesting research funded by my amazing home country. </div>
 
-**Jan 2026** — 
+**April 2026** I spent a day volunteering at Columbia's [Girls' Science Day](https://www.girlsscienceday.com/), getting to connect with almost 100 middle-aged girls and talking to them about cool science!
 
-things to include 
-- Starting PhD
-- January 2024
-- organizing first year colloquium
-- Science pen pal
-- AMS
-- Passing quals
-- Girls' science day 
-- NSERC award
+**April 2026** I pass my qualifying exams, officially becoming a PhD **candidate**! Thank you to my advisory committee for their guidance. 
 
-Add in future: TDP, etc 
+**January 2026** I gave an oral presentation at AMS 2026 in Houston, Texas
 
-Notes: add a press page? add a travel page with photos/videos? 
+**September 2025** I joined the [Letters to a Pre-Scientist](https://prescientist.org/) pen pal program
 
+**April 2025** I co-organized the Department of Earth and Environmental Science First-Year Colloquium, a day where all the first year PhD students got to share their research with the Lamont community
 
-
-
+**September 2024** I moved to New York and started my PhD at Columbia!! 
 
 **February 2024** I give an [invited talk](https://www.youtube.com/live/d7IUJqdVT_Y) with [Exploring by the Seat of your Pants](https://exploringbytheseat.com/)
 
-**July 2023** I start volunteering with [Let's Talk Science](https://letstalkscience.ca/careers/charlotte-cockburn), a Canadian organization that brings scientists into classrooms 
+**September 2023** I switched roles and started working for Canada's Greenhouse Gas Reporting Program as a data anlyst 
 
-**August 2023** I head up to Alert, Nunavut to drop weather monitoring buoys over the Arctic Ocean!! 
+**July 2023** I started volunteering with [Let's Talk Science](https://letstalkscience.ca/careers/charlotte-cockburn), a Canadian organization that brings scientists into classrooms 
+
+**August 2023** I headed up to Alert, Nunavut to drop weather monitoring buoys over the Arctic Ocean!! 
 
 **May 2023** Our paper looking at future precipitation changes in the Northeast was published in [Climatic Change](https://link.springer.com/article/10.1007/s10584-023-03545-w)! Press [here](https://home.dartmouth.edu/news/2023/06/extreme-precipitation-northeast-increase-52-2099) and [here](https://www.earth.com/news/heavy-rainfall-events-in-the-northeast-are-set-to-increase-by-over-50-percent/). 
 
