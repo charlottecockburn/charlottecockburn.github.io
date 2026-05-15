@@ -15,4 +15,5 @@ Before I came to Columbia, I earned an MS working in the [Applied Hydroclimatolo
 News
 ======
 
+**Jan 2026** — Update here!
 
