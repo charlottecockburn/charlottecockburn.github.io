@@ -19,7 +19,6 @@ In my free time, I love going for bike rides, swimming, hiking, reading, and any
 
 
 ## News
-======
 
 **April 2026** I was awarded the [Canada Graduate Research Scholarship](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program) from the Natural Sciences and Engineering Research Council of Canada!!
 
