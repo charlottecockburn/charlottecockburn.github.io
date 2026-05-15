@@ -32,6 +32,8 @@ In my free time, I love going for bike rides, swimming, hiking, reading, and any
 
 **April 2025** I co-organized the Department of Earth and Environmental Sciences First-Year Colloquium, a day where all the first year PhD students got to share their research with the Lamont community
 
+**January 2025** I started volunteering with [Skype a Scientist](https://www.skypeascientist.com/), a program that connects teachers with scientists for video calls with their classes
+
 **September 2024** I moved to New York and started my PhD at Columbia!! 
 
 **February 2024** I gave an [invited talk](https://www.youtube.com/live/d7IUJqdVT_Y) to several elementary school classrooms with [Exploring by the Seat of your Pants](https://exploringbytheseat.com/)
