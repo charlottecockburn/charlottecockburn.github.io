@@ -36,7 +36,8 @@ h1, h2, h3 {
   display: none !important;
 }
 
-/* Email link */
-.author__urls .author__url {
-  color: #B5541A !important;
+/* Keep links black */
+
+.author__urls a, .author__urls .author__url {
+  color: var(--color-text-primary) !important;
 }
