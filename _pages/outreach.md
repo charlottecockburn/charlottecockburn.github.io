@@ -19,6 +19,7 @@ I love chatting about anything climate science-related with a whole variety of a
 
 
 ## Past
+
 **April 2026**: Columbia [Girls' Science Day](https://www.girlsscienceday.com/)
 
 **April 2025**: Organized the Department of Earth and Environmental Sciences' First-Year Colloquium
