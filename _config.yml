@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Charlotte Cockburn"
-  pronouns         :  "she/her"  
+  pronouns         :  #none  
   bio              : "Climate scientist in training!"
   location         : "New York, United States"
   employer         : "Columbia University"
