@@ -52,7 +52,7 @@ In my free time, I love going for bike rides, swimming, hiking, reading, and any
 
 **November 2022** I [visited a Canadian Coast Guard ship](/files/coastguard.jpeg) to learn about their AVOS (Automated Voluntary Observing Ship) weather station
 
-**August 2022** I headed up to Alert, Nunavut to [drop weather monitoring buoys](/files/buoys.MOV) over the Arctic Ocean!! 
+**August 2022** I headed up to Alert, Nunavut to <a href="/files/buoys.mp4" target="_blank">drop weather monitoring buoys</a> over the Arctic Ocean!!
 
 **November 2021** I became a Dartmouth [alumni ambassador](https://alumni.dartmouth.edu/admissions-ambassadors), interviewing prospective undergraduate students to help with the admissions process
 
