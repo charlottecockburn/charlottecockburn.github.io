@@ -1,30 +1,47 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
 
-// Font
-body {
+body, h1, h2, h3, h4, h5, h6 {
   font-family: 'Nunito', sans-serif !important;
 }
 
-// Square profile picture
-.author__avatar img {
-  border-radius: 0 !important;
+/* Terracotta accent color for links, headers, nav */
+a {
+  color: #B5541A !important;
 }
 
-// Dark blue for headers, nav, links
-h1, h2, h3, a {
-  color: #4488BB !important;
+a:hover {
+  color: #8B3F12 !important;
+}
+
+h1, h2, h3 {
+  color: #B5541A !important;
 }
 
 .masthead__menu-item a, .site-title {
-  color: #4488BB !important;
+  color: #B5541A !important;
 }
 
-// Light blue on hover
-a:hover {
-  color: #BBEEEE !important;
+/* Remove bold from name in header and sidebar */
+.site-title, .author__name {
+  font-weight: 400 !important;
 }
 
-// Remove dark/light mode toggle
+/* Circular profile picture */
+.author__avatar img {
+  border-radius: 50% !important;
+}
+
+/* Remove dark/light mode toggle */
 .theme-toggle {
   display: none !important;
+}
+
+/* Sidebar links — keep them terracotta not default blue */
+.author__urls a {
+  color: #B5541A !important;
+}
+
+/* Email link */
+.author__urls .author__url {
+  color: #B5541A !important;
 }
