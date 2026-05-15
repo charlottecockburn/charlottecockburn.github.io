@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+
+// Font
+body {
+  font-family: 'Nunito', sans-serif !important;
+}
+
+// Square profile picture
+.author__avatar img {
+  border-radius: 0 !important;
+}
+
+// Dark blue for headers, nav, links
+h1, h2, h3, a {
+  color: #4488BB !important;
+}
+
+.masthead__menu-item a, .site-title {
+  color: #4488BB !important;
+}
+
+// Light blue on hover
+a:hover {
+  color: #BBEEEE !important;
+}
+
+// Remove dark/light mode toggle
+.theme-toggle {
+  display: none !important;
+}
