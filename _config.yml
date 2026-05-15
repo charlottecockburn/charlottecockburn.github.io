@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Charlotte Cockburn"
   pronouns         :  "she/her"  
   bio              : "Climate science PhD student at Columbia University"
