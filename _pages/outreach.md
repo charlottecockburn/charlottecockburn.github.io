@@ -8,15 +8,15 @@ author_profile: false
 I love chatting about anything climate science-related with a whole variety of audiences.
 
 ## Ongoing 
-[Letters to a Pre-Scientist](https://prescientist.org/) pen pal program
+*September 2025 - present*: [Letters to a Pre-Scientist](https://prescientist.org/) pen pal program
 
-[Skype a Scientist](https://www.skypeascientist.com/) classroom video calls
+*September 2025 - present*: Columbia University Department of Earth and Environmental Sciences Graduate Student Council (first-year chair)
 
-[Let's Talk Science](https://letstalkscience.ca/careers/charlotte-cockburn) classroom visits
+*January 2025 - present*: [Skype a Scientist](https://www.skypeascientist.com/) classroom video calls
 
-Dartmouth [alumni ambassador](https://alumni.dartmouth.edu/admissions-ambassadors)
+*July 2023 - present*: [Let's Talk Science](https://letstalkscience.ca/careers/charlotte-cockburn) classroom visits
 
-Columbia University Department of Earth and Environmental Sciences Graduate Student Council (first-year chair)
+*November 2021 - present*: Dartmouth [alumni ambassador](https://alumni.dartmouth.edu/admissions-ambassadors)
 
 
 ## One-off
