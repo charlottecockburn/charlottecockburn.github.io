@@ -23,7 +23,7 @@ repository               : "charlottecockburn/charlottecockburn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "/images/profile.png"
   name             : "Charlotte Cockburn"
   pronouns         :  "she/her"  
   bio              : "Climate science PhD student at Columbia University"
