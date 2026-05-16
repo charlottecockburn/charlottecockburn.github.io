@@ -1,7 +1,7 @@
 ---
 title: "Twenty-first century increases in total and extreme precipitation across the Northeastern USA"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/precip
 date: 2023-05-30
 venue: 'Climatic Change'
