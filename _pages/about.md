@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-~WEBSITE IS UNDER CONSTRUCTION PLEASE COME BACK LATER!!~
+WEBSITE IS UNDER CONSTRUCTION PLEASE COME BACK LATER!!
 
 
 Hi there! My name is Charlotte, and I'm a climate science PhD student at Columbia University and the Lamont-Doherty Earth Observatory. As a part of the extremes group, I work with [Radley Horton](https://www.radleyhorton.com/) researching the impacts of severe weather. I'm fascinated by anything related to hydroclimate, ranging from global heat waves to the daily streamflow of my hometown river, the [Gatineau](https://www.riverapp.net/en/river/5f2d2e4a48b5d83d685d6cdb). 
