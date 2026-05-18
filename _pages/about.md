@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-WEBSITE IS UNDER CONSTRUCTION PLEASE COME BACK LATER!!
-
-
-Hi there! My name is Charlotte, and I'm a climate science PhD student at Columbia University and the Lamont-Doherty Earth Observatory. As a part of the extremes group, I work with [Radley Horton](https://www.radleyhorton.com/) researching the impacts of severe weather. I'm fascinated by anything related to hydroclimate, ranging from global heat waves to the daily streamflow of my hometown river, the [Gatineau](https://www.riverapp.net/en/river/5f2d2e4a48b5d83d685d6cdb). 
+Hi there! My name is Charlotte, and I'm a climate science PhD candidate at Columbia University and the Lamont-Doherty Earth Observatory. As a part of the extremes group, I work with [Radley Horton](https://www.radleyhorton.com/) researching the impacts of severe weather. I'm fascinated by anything related to hydroclimate, ranging from global heat waves to the daily streamflow of my hometown river, the [Gatineau](https://www.riverapp.net/en/river/5f2d2e4a48b5d83d685d6cdb). 
 
 At Columbia, my work has mainly focussed on analyzing the impact of extreme heat on electricity demand, with a particular interest in the places where tradtional electricity-demand models fail. I am also researching the impact of non-temperature variables (like humidity, sunlight, or wind) on electricity demand. 
 
@@ -24,7 +21,7 @@ In my free time, I love going for bike rides, swimming, hiking, reading, and wri
 
 **April 2026** I spent a day volunteering at Columbia's [Girls' Science Day](https://www.girlsscienceday.com/). I got to connect with almost 100 middle-school-aged girls and talk to them about cool science!
 
-**April 2026** I passed my qualifying exams and officially became a PhD *candidate*! Thank you to my advisory committee for their guidance and support
+**April 2026** I passed my qualifying exams and officially became a PhD candidate! Thank you to my advisory committee for their guidance and support
 
 **January 2026** I gave an oral presentation at AMS 2026 in Houston, Texas
 
