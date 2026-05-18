@@ -40,7 +40,7 @@ In my free time, I love going for bike rides, swimming, hiking, reading, and wri
 
 **September 2023** I switched roles and started working for Canada's Greenhouse Gas Reporting Program as a data analyst 
 
-**August 2023** Personal achievment - I competed in my [first ever triathlon](/files/tri.jpeg) with heaps of support from my awesome family and friends!
+**August 2023** Personal achievment - I competed in my first ever triathlon with [heaps of support](/files/tri.jpeg) from my awesome family and friends!
 
 **July 2023** I started volunteering with [Let's Talk Science](https://letstalkscience.ca/careers/charlotte-cockburn), a Canadian organization that brings scientists into classrooms 
 
