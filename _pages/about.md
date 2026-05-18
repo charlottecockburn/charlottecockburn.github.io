@@ -28,6 +28,8 @@ In my free time, I love going for bike rides, swimming, hiking, reading, and wri
 
 **January 2026** I gave an oral presentation at AMS 2026 in Houston, Texas
 
+**September 2025** I became the co-director of [NENSIC](https://nensic.org/), a group that runs networking activities and workshops for early-career folks in climate science
+
 **September 2025** I joined the [Letters to a Pre-Scientist](https://prescientist.org/) pen pal program
 
 **April 2025** I co-organized the Department of Earth and Environmental Sciences First-Year Colloquium, a day where all the first year PhD students got to share their research with the Lamont community
