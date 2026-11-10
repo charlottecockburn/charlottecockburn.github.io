@@ -17,9 +17,11 @@ In my free time, I love going for bike rides, swimming, hiking, reading, and wri
 
 ## News
 
+**May 2026** I started volunteering at the [Climate Learning Lab](https://www.amnh.org/exhibitions/permanent/climate-learning-lab) at the American Museum of Natural History. It's so fun getting to talk about climate science with visitors from all over the world!
+
 **April 2026** I was awarded the [Canada Graduate Research Scholarship](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program) from the Natural Sciences and Engineering Research Council of Canada!! So excited to continue my PhD funded by my awesome home country!
 
-**April 2026** I spent a day volunteering at Columbia's [Girls' Science Day](https://www.girlsscienceday.com/). I got to connect with almost 100 middle-school-aged girls and talk to them about cool science!
+**April 2026** I started volunteering with Columbia's [Girls' Science Day](https://www.girlsscienceday.com/). I got to connect with almost 100 middle-school-aged girls and talk to them about cool science!
 
 **April 2026** I passed my qualifying exams and officially became a PhD candidate! Thank you to my advisory committee for their guidance and support
 
