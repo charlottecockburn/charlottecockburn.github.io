@@ -8,11 +8,15 @@ author_profile: false
 I love chatting about anything climate science-related with a whole variety of audiences.
 
 ## Ongoing 
+**September 2026 - present**: Earth Science representative for the [Columbia Arts & Science Graduate Council](https://council.gsas.columbia.edu/)
+
+**May 2026 - present**: [Climate Learning Lab](https://www.amnh.org/exhibitions/permanent/climate-learning-lab) at AMNH
+
+**April 2026 - present**: Columbia [Girls' Science Day](https://www.girlsscienceday.com/)
+
 **September 2025 - present**: [NENSIC](https://nensic.org/)
 
 **September 2025 - present**: [Letters to a Pre-Scientist](https://prescientist.org/) pen pal program
-
-**September 2025 - present**: Department of Earth and Environmental Sciences Graduate Student Council (first-year chair)
 
 **January 2025 - present**: [Skype a Scientist](https://www.skypeascientist.com/) classroom video calls
 
@@ -20,8 +24,7 @@ I love chatting about anything climate science-related with a whole variety of a
 
 
 ## Past
-
-**April 2026**: Columbia [Girls' Science Day](https://www.girlsscienceday.com/)
+**September 2025 - September 2026**: Department of Earth and Environmental Sciences Graduate Student Council (first-year chair)
 
 **April 2025**: Organized the Department of Earth and Environmental Sciences' First-Year Colloquium
 
